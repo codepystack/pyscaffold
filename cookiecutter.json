@@ -1,0 +1,6 @@
+{
+  "project_name": "Project Name",
+  "__directory_name": "{{cookiecutter.project_name|lower|replace(' ', '-')}}",
+  "author_name": "Aksh Bhati",
+  "author_email": "aksh27.oct@gmail.com"
+}
