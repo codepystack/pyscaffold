@@ -20,8 +20,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "attrs"
-author = "Hynek Schlawack"
+project = "{{cookicutter.__project_slug}}"
+author = "{{cookiecutter.author_name}}"
 copyright = f"{datetime.date.today().year}, {author}"
 
 
